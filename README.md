@@ -12,3 +12,5 @@ Added: So I discovered that our university doesn't pay that much attention to th
 deep learning labs, and that's bad yea,
 
 Added: Still don't understand the real difference between PyTorch, TensorFlow, and Keras, and I also don't understand almost all job offers requires both of them!, like why would you make a model with TensorFlow, then make another model in the same company with PyTorch!! I don't get it
+
+Added: I think I'll start a big end-to-end ML project soon
